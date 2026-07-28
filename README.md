@@ -35,7 +35,7 @@ A Smart Hospital Appointment & Patient Management System that allows:
 
 ---
 
-#  Project Deliverables
+#  Project Deliverables 
 
 ## 1️⃣ Project Initiation
 
